@@ -1,0 +1,23 @@
+h1 {
+    color:green;
+    text-align: center;
+}
+.t1 {
+    color: orange;
+    text-align: center;
+}
+
+.t2 {
+    color: red;
+    text-align: center;
+}
+.t3 {
+    color: orange;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid red; 
+    border-radius: 15px;
+    margin: 10%;
+}

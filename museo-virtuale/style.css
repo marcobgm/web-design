@@ -1,0 +1,33 @@
+.logo {
+    .logo.resized { width: 20
+        px; height: auto; }
+   
+}
+h1{
+    color: rgb(0, 254, 47);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:3cap;
+    
+}
+h2{
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+    
+}
+
+img {
+    width: 25vh;
+}
